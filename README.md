@@ -24,4 +24,4 @@ Det kreves at du løser korrekt minst èn av oppgavene.
 
 ## Start øvingen
 
-Klikk [her](https://jupyterhub.apps.stack.it.ntnu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgit.ntnu.no%2FTDT4114%2Fmand_assign_1.git&urlpath=lab%2Ftree%2Fmand_assign_1.git%2FREADME.md&branch=main) for å starte arbeid med øvingen i Jupyter Lab. Eller clone/last ned fra repository: https://git.ntnu.no/TDT4114/mand_assign_1.
+For å få tilgang til øvingen, klikk <a href="https://jupyterhub.apps.stack.it.ntnu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgit.ntnu.no%2FTDT4114%2Fmand_assign_1.git&#38;urlpath=lab%2Ftree%2Fmand_assign_1.git%2FREADME.md&#38;branch=main">her</a>. Og/eller last ned/clone GitHub repository: <a href="https://git.ntnu.no/TDT4114/mand_assign_1">https://git.ntnu.no/TDT4114/mand_assign_1</a>.
