@@ -26,6 +26,8 @@ Det kreves at du løser korrekt minst èn av oppgavene.
 
 For å få tilgang til øvingen, klikk <a href="https://jupyterhub.apps.stack.it.ntnu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgit.ntnu.no%2FTDT4114%2Fmand_assign_1.git&#38;urlpath=lab%2Ftree%2Fmand_assign_1.git%2FREADME.md&#38;branch=main">her</a>. Og/eller last ned/clone GitHub repository: <a href="https://git.ntnu.no/TDT4114/mand_assign_1">https://git.ntnu.no/TDT4114/mand_assign_1</a>.
 
+Du kan lære mer om biblioteken numpy, matplotlib, pandas [her](../chap_data_analysis_visualization/introduction_libraries.md).
+
 ## Innlevering
 
 Pakk hele øvingskatalogen som en zip-fil (mand_assign_1.zip) og last opp i Blackboard.
