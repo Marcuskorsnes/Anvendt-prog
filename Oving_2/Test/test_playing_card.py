@@ -1,11 +1,10 @@
 import unittest
-import sys
-import os
+import sys, os
 
-# Legger til src-mappen i sys.path slik at Python kan finne PlayingCard-modulen
-sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), 'src')))
+# Legg til src-mappen til sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), 'Oving_2', 'src')))
 
-from PlayingCard import PlayingCard  # Nå skal Python finne PlayingCard-modulen
+from PlayingCard import PlayingCard
 
 class TestPlayingCard(unittest.TestCase):
 

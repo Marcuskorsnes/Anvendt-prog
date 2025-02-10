@@ -1,7 +1,7 @@
 import unittest
 import sys, os
 
-sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), 'src')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.getcwd(), 'Oving_2', 'src')))
 
 from HandOfCards import HandOfCards
 from PlayingCard import PlayingCard
